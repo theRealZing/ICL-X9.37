@@ -6,7 +6,7 @@ Although this is a full fork, I have no interest in the VB.net version of this. 
 
 x9.37 Image Cash Letter viewer. Updated to C#.Net(VS 2010). Currently allows viewing and searching of X9 files, supports ASCII Encoding, Exporting the images to multiple single TIF and ICL File summary page is included for easy verification. 
 
-VB.net project ignored in this fork.
+VB.net project removed in this fork.
 
 open source under the MIT license and is free for commercial use.
 
